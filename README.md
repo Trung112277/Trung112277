@@ -1,8 +1,8 @@
-<h1 align="center">𝙃𝙞, 𝙄'𝙢 𝙉𝙝𝙖̣̂𝙩 𝙏𝙧𝙪𝙣𝙜 (<code>Trung112277</code>)</h1>
+<h1 align="center">𝙃𝙞, 𝙄'𝙢 𝙉𝙝𝙖̣̂𝙩 𝙏𝙧𝙪𝙣𝙜 </h1>
 
 <div align="center">
         <p style="margin:6px 0"><em>“Not only do you have to fight, but you have got to win.”</em></p>
-        <p style="margin:6px 0">Front‑end Developer • React & TypeScript enthusiast • Exploring Backend & DevOps</p>
+        <p style="margin:6px 0">Fullstack Developer • React.js & Node.js enthusiast </p>
         <p style="margin:8px 0">
           <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" alt="Open to work" />
           <img src="https://img.shields.io/github/followers/Trung112277?label=Followers&style=social" alt="Followers" />
